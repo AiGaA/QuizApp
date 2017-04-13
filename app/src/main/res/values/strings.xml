@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">F1 Quiz</string>
+    <string name="q1">1. Which F1 season saw the first victory of a rear-engined car?</string>
+    <string name="q1a">1960</string>
+    <string name="q1b">1961</string>
+    <string name="q1c">1958</string>
+    <string name="q1d">1959</string>
+    <string name="q2">2. Of todays F1 teams, which team has been around since the F1 world championship started in 1950?</string>
+    <string name="q2a">"Ferrari"</string>
+    <string name="q3">3. Which decade saw 4 British drivers claim 6 F1 drivers titles?</string>
+    <string name="q3a">1980s</string>
+    <string name="q3b">1950s</string>
+    <string name="q3c">1970s</string>
+    <string name="q3d">1960s</string>
+    <string name="q4">4. Which circuit nearly claimed the life of Ferrari driver Niki Lauda in 1976?</string>
+    <string name="q4a">Nordschleife (Old Nurburgring)</string>
+    <string name="q4b">Adelaide</string>
+    <string name="q4c">A1 Ring</string>
+    <string name="q4d">Buenos Aires</string>
+    <string name="q5">5. Who has won the most Monaco Grand Prixs?</string>
+    <string name="q5a">Graham Hill</string>
+    <string name="q5b">Michael Schumacher</string>
+    <string name="q5c">Alain Prost</string>
+    <string name="q5d">Ayrton Senna</string>
+    <string name="q6">6. Who became Britains first F1 champion since James Hunt in 1976?</string>
+    <string name="q6a">Johnny Herbert</string>
+    <string name="q6b">Nigel Mansell</string>
+    <string name="q6c">Martin Brundle</string>
+    <string name="q6d">Damon Hill</string>
+    <string name="q7">7. Which British driver made his F1 debut for Williams BMW in 2000? </string>
+    <string name="q7a">Anthony Davidson</string>
+    <string name="q7b">Jenson Button</string>
+    <string name="q7c">Alan McNish</string>
+    <string name="q7d">Justin Wilson</string>
+    <string name="q8">8. Which countries hosted F1 races at four different venues from 1950 onwards (excluding America)?</string>
+    <string name="q8a">Britain</string>
+    <string name="q8b">Germany</string>
+    <string name="q8c">Spain</string>
+    <string name="q8d">France</string>
+    <string name="q9">9. Who was promoted to the 1997 drivers championship top 10 after Michael Schumacher was annulled for dangerous dfriving in the final race?</string>
+    <string name="q9a">Johnny Herbert</string>
+    <string name="q9b">Jarno Trulli</string>
+    <string name="q9c">Ralf Schumacher</string>
+    <string name="q9d">Damon Hill</string>
+    <string name="q10">10. Which former Subaru WRC team boss was in charge of BAR Honda from 2001 to 2004?</string>
+    <string name="q10a">Eddie Jordan</string>
+    <string name="q10b">Tony Purnell</string>
+    <string name="q10c">David Richards</string>
+    <string name="q10d">Paul Stoddart</string>
+
+
+</resources>

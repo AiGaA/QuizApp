@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="textView">
+        <item name="android:textSize">@dimen/text_size14</item>
+        <item name="android:layout_marginTop">@dimen/text_marginTop6</item>
+        <item name="android:paddingLeft">@dimen/paddingLeft10</item>
+    </style>
+    <style name="radioGroup">
+        <item name="android:paddingLeft">@dimen/paddingLeft8</item>
+        <item name="android:paddingBottom">@dimen/paddingBottom8</item>
+    </style>
+    <style name="checkBox">
+        <item name="android:layout_marginLeft">@dimen/marginLeft10</item>
+        <item name="android:textSize">@dimen/text_size16</item>
+        <item name="android:layout_marginBottom">@dimen/marginBottom8</item>
+    </style>
+    <style name="editText">
+        <item name="android:layout_marginBottom">@dimen/marginBottom8</item>
+        <item name="android:layout_marginTop">@dimen/marginTop8</item>
+        <item name="android:textSize">@dimen/text_size16</item>
+        <item name="android:layout_marginLeft">@dimen/marginLeft10</item>
+    </style>
+
+</resources>
